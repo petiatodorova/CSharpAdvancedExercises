@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\bin\Debug\netcoreapp2.0\ReverseNumbers.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Stacks\ReverseNumbers\obj\Debug\netcoreapp2.0\ReverseNumbers.pdb
