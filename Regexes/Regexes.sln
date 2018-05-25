@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrongPassword", "StrongPassword\StrongPassword.csproj", "{79ACEE94-9E3E-40D9-899C-FB57A4AB1D41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CameraView", "CameraView\CameraView.csproj", "{6DB87C8D-B944-4554-B133-E81931DCB8D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentences", "ExtractSentences\ExtractSentences.csproj", "{4FBA91D4-C2DF-4828-B882-0472ADCA55C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSentences2", "ExtractSentences2\ExtractSentences2.csproj", "{17A69247-A6C4-4984-BF6B-82F2B7B1DFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather", "Weather\Weather.csproj", "{7616E325-20B0-4924-B0E5-D9A9846135A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyReplacer", "KeyReplacer\KeyReplacer.csproj", "{65428B1C-05C1-4879-8B8E-D2FBBEF7467A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79ACEE94-9E3E-40D9-899C-FB57A4AB1D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ACEE94-9E3E-40D9-899C-FB57A4AB1D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ACEE94-9E3E-40D9-899C-FB57A4AB1D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ACEE94-9E3E-40D9-899C-FB57A4AB1D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB87C8D-B944-4554-B133-E81931DCB8D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB87C8D-B944-4554-B133-E81931DCB8D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB87C8D-B944-4554-B133-E81931DCB8D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB87C8D-B944-4554-B133-E81931DCB8D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FBA91D4-C2DF-4828-B882-0472ADCA55C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBA91D4-C2DF-4828-B882-0472ADCA55C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBA91D4-C2DF-4828-B882-0472ADCA55C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBA91D4-C2DF-4828-B882-0472ADCA55C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A69247-A6C4-4984-BF6B-82F2B7B1DFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A69247-A6C4-4984-BF6B-82F2B7B1DFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A69247-A6C4-4984-BF6B-82F2B7B1DFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A69247-A6C4-4984-BF6B-82F2B7B1DFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7616E325-20B0-4924-B0E5-D9A9846135A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7616E325-20B0-4924-B0E5-D9A9846135A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7616E325-20B0-4924-B0E5-D9A9846135A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7616E325-20B0-4924-B0E5-D9A9846135A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65428B1C-05C1-4879-8B8E-D2FBBEF7467A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65428B1C-05C1-4879-8B8E-D2FBBEF7467A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65428B1C-05C1-4879-8B8E-D2FBBEF7467A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65428B1C-05C1-4879-8B8E-D2FBBEF7467A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E25A3DF-E23A-412D-A1EB-3BFEF05C2E8C}
+	EndGlobalSection
+EndGlobal

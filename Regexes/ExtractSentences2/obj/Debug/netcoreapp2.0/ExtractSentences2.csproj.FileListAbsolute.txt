@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\bin\Debug\netcoreapp2.0\ExtractSentences2.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\bin\Debug\netcoreapp2.0\ExtractSentences2.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\bin\Debug\netcoreapp2.0\ExtractSentences2.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\bin\Debug\netcoreapp2.0\ExtractSentences2.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\bin\Debug\netcoreapp2.0\ExtractSentences2.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\obj\Debug\netcoreapp2.0\ExtractSentences2.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\obj\Debug\netcoreapp2.0\ExtractSentences2.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\obj\Debug\netcoreapp2.0\ExtractSentences2.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\obj\Debug\netcoreapp2.0\ExtractSentences2.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Regexes\ExtractSentences2\obj\Debug\netcoreapp2.0\ExtractSentences2.pdb
