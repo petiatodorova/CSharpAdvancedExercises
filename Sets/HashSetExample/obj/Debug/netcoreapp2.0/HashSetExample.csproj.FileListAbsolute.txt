@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\bin\Debug\netcoreapp2.0\HashSetExample.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\bin\Debug\netcoreapp2.0\HashSetExample.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\bin\Debug\netcoreapp2.0\HashSetExample.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\bin\Debug\netcoreapp2.0\HashSetExample.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\bin\Debug\netcoreapp2.0\HashSetExample.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HashSetExample\obj\Debug\netcoreapp2.0\HashSetExample.pdb

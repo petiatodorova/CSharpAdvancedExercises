@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csprojResolveAssemblyReference.cache

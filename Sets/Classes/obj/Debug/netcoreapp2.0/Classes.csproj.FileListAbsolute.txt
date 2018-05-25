@@ -1,0 +1,14 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\Classes.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\Classes.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\Classes.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\Classes.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\Classes.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\ListOfClassWithDictionary.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\bin\Debug\netcoreapp2.0\ListOfClassWithDictionary.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Classes\obj\Debug\netcoreapp2.0\Classes.csproj.CopyComplete

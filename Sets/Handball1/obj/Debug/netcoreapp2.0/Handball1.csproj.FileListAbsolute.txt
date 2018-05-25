@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\bin\Debug\netcoreapp2.0\Handball1.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\bin\Debug\netcoreapp2.0\Handball1.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\bin\Debug\netcoreapp2.0\Handball1.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\bin\Debug\netcoreapp2.0\Handball1.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\bin\Debug\netcoreapp2.0\Handball1.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\Handball1\obj\Debug\netcoreapp2.0\Handball1.csprojResolveAssemblyReference.cache

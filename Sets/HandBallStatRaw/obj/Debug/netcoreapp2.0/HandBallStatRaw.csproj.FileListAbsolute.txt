@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\bin\Debug\netcoreapp2.0\HandBallStatRaw.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\bin\Debug\netcoreapp2.0\HandBallStatRaw.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\bin\Debug\netcoreapp2.0\HandBallStatRaw.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\bin\Debug\netcoreapp2.0\HandBallStatRaw.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\bin\Debug\netcoreapp2.0\HandBallStatRaw.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.dll
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.pdb
+C:\Users\John\Desktop\GitRepo\CSharpAdvanced\Sets\HandBallStatRaw\obj\Debug\netcoreapp2.0\HandBallStatRaw.csprojResolveAssemblyReference.cache
