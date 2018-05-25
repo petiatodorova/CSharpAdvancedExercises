@@ -1,3 +1,621 @@
+# CSharpGeneral
+Exercises with C# DataTypes | Strings | Regex | Dictionary | Class | Arrays | Lists
+
+# Strings:
+
+===================
+
+## CharToAsciiToChar
+
+===================
+
+Convert character to ASCII code and convert ASCII code to character
+
+
+
+## StringBuilderTest
+
+===================
+
+Reverse input string and change it with some key number.
+
+
+
+## PrintRepeatingCharacter
+
+=========================
+
+Prints repeating symbol, which comes from the console.
+
+
+
+## Print Part of the ASCII Table
+
+================================
+
+Find online more information about ASCII (American Standard Code for Information Interchange) and write a program that prints part of the ASCII table of characters at the console.  On the first line of input you will receive the char index you should start with and on the second line - the index of the last character you should print.
+
+### Tests:
+
+*** Input
+
+60
+
+65
+
+*** Output
+
+&lt; = &gt; ? @ A
+
+*** Input
+
+69
+
+79
+
+*** Output
+
+E F G H I J K L M N O
+
+*** Input
+
+97
+
+104
+
+*** Output
+
+a b c d e f g h
+
+*** Input
+
+40
+
+55
+
+*** Output
+
+( ) * + , - . / 0 1 2 3 4 5 6 7
+
+
+
+## Character Multiplier
+
+================================
+
+Create a method that takes two strings as arguments and returns the sum of their character codes multiplied (multiply str1.charAt (0) with str2.charAt (0) and add to the total sum). Then continue with the next two characters. If one of the strings is longer than the other, add the remaining character codes to the total sum without multiplication.
+
+### Tests:
+
+*** Input
+
+Gosho Pesho
+
+*** Output
+
+53253
+
+*** Input
+
+123 522
+
+*** Output
+
+7647
+
+*** Input
+
+a aaaa
+
+*** Output
+
+9700
+
+
+
+# Data Types:
+
+bool  --&gt; Boolean value  --&gt;  True or False  --&gt;  Default: False
+
+byte  --&gt; 8-bit unsigned integer  --&gt; Default: 0 to 255
+
+char  --&gt; 16-bit Unicode character  --&gt; U +0000 to U +ffff  --&gt; Default: '\0'
+
+decimal  --&gt; 128-bit precise decimal values with 28-29 significant digits  --&gt; (-7.9 x 1028 to 7.9 x 1028) / 100 to 28  --&gt; Default: 0.0M
+
+double  --&gt; 64-bit double-precision floating point type  --&gt; (+/-)5.0 x 10-324 to (+/-)1.7 x 10308  --&gt; Default: 0.0D
+
+float  --&gt; 32-bit single-precision floating point type  --&gt; -3.4 x 1038 to + 3.4 x 1038  --&gt; Default: 0.0F
+
+int  --&gt; 32-bit signed integer type  --&gt; -2,147,483,648 to 2,147,483,647  --&gt; Default: 0
+
+long  --&gt; 64-bit signed integer type  --&gt; -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807  --&gt; Default: 0L
+
+sbyte  --&gt; 8-bit signed integer type  --&gt; -128 to 127  --&gt; Default: 0
+
+short  --&gt; 16-bit signed integer type  --&gt; -32,768 to 32,767  --&gt; Default: 0
+
+uint  --&gt; 32-bit unsigned integer type  --&gt; 0 to 4,294,967,295  --&gt; Default: 0
+
+ulong  --&gt; 64-bit unsigned integer type  --&gt; 0 to 18,446,744,073,709,551,615  --&gt; Default: 0
+
+ushort  --&gt; 16-bit unsigned integer type  --&gt; 0 to 65,535  --&gt; Default: 0
+
+# Max Sequence of Equal Elements
+
+================================
+
+Write a program that finds the longest sequence of equal elements in an array of integers. If several longest sequences exist, print the leftmost one.
+
+## Tests:
+
+*** Input
+
+2 1 1 2 3 3 2 2 2 1
+
+*** Output
+
+2 2 2
+
+*** Input
+
+1 1 1 2 3 1 3 3
+
+*** Output
+
+1 1 1
+
+*** Input
+
+4 4 4 4
+
+*** Output
+
+4 4 4 4
+
+*** Input
+
+0 1 1 5 2 2 6 3 3
+
+*** Output
+
+1 1
+
+# Variable in Hexadecimal Format
+
+================================
+
+Write a program that reads a number in hexadecimal format (0x##) convert it to decimal format and prints it.
+
+## Tests:
+
+*** Input
+
+0xFE
+
+*** Output
+
+254
+
+*** Input
+
+0x37
+
+*** Output
+
+55
+
+*** Input
+
+0x10
+
+*** Output
+
+16
+
+# Different Integers Size
+
+================================
+
+Given an input integer, you must determine which primitive data types are capable of properly storing that input.
+
+Input
+
+You receive N – integer which can be arbitrarily large or small
+
+Output
+
+You must determine if the given primitives are capable of storing it. If yes, then print:
+
+{N} can fit in:
+
+* dataType
+
+If there is more than one appropriate data type, print each one on its own line and order them by size
+
+(sbyte &lt; byte &lt; short &lt; ushort &lt; int &lt; uint &lt; long).
+
+If the number cannot be stored in one of the four aforementioned primitives, print the line: 
+
+{N} can't fit in any type
+
+## Tests:
+
+*** Input
+
+-150
+
+*** Output
+
+-150 can fit in:
+
+* short
+
+* int
+
+* long
+
+*** Input
+
+150000
+
+*** Output
+
+150000 can fit in:
+
+* int
+
+* uint
+
+* long
+
+*** Input
+
+1500000000
+
+*** Output
+
+1500000000 can fit in:
+
+* int
+
+* uint
+
+* long
+
+*** Input
+
+213333333333333333333333333333333333
+
+*** Output
+
+213333333333333333333333333333333333 can't fit in any type
+
+# Thea the Photographer
+
+================================
+
+This problem is from the Programming Fundamentals Retake Exam (11 September 2016).
+
+Thea is a photographer. She takes pictures of people on special events. She is a good friend and you want to help her.
+
+She wants to inform her clients when their pictures will be ready. Since the number of pictures is big and it requires time for editing (#nofilter, #allnatural) every single picture - you decide to write a program in order to help her.
+
+Thea follows this pattern: first she takes all pictures. Then she goes through every single picture to filter these pictures that are considered "good". Then she needs to upload every single filtered picture to her cloud. She is considered ready when all filtered pictures are uploaded in her picture storage.
+
+You will receive the number of pictures she had taken. Then the approximate time in seconds for every picture to be filtered. Then a filter factor – a percentage (integer number) of the total photos (rounded to the nearest bigger integer value e.g. 5.01 -&gt; 6) that are good enough to be given to her clients (Photoshop may do miracles but Thea does not). Approximate time for every picture to be uploaded will be given again in seconds. Your task is: based on this input to display total time needed for her to be ready with the pictures in given below format.
+
+Input
+
+On the first line, you will receive an integer N – the number of pictures Thea had taken.
+
+On the second line, you will receive an integer FT – the amount of time (filter time) in seconds that Thea will require to filter every single picture.
+
+On the third line, you will receive an integer FF – the filter factor or the percentage of the total pictures that are considered “good” to be uploaded.
+
+On the fourth line, you will receive an integer UT – the amount of time needed for every filtered picture to be uploaded to her storage.
+
+The input will be in the described format, there is no need to check it explicitly.
+
+Output
+
+Print the amount of time Thea will need in order to have her pictures ready to be sent to her client in given format:
+
+d:HH:mm:ss
+
+d - days needed – starting from 0.
+
+HH –  hours needed – from 00 to 24.
+
+mm – minutes needed – from 00 to 59.
+
+ss – minutes needed – from 00 to 59.
+
+## Tests:
+
+## Constraints
+
+The number of total pictures Thea will have taken is range [0 … 1 000 000]
+
+The seconds for both filtering and uploading will be in range [0 … 100 000]
+
+The filter factor will be an integer number between [0 … 100].
+
+## Tests:
+
+*** Input
+
+1000
+
+1
+
+50
+
+1
+
+*** Output
+
+0:00:25:00
+
+*** Comments
+
+Total pictures = 1 000, 50% of them are useful -&gt; Filtered pictures = 500 
+
+Total pictures * filter time = 1000 s
+
+Filtered pictures * upload time = 500 s
+
+Total time = 1500 s
+
+*** Input
+
+5342
+
+2
+
+82
+
+3
+
+*** Output
+
+0:06:37:07
+
+*** Comments
+
+Total pictures = 5342 - 82% of them are useful -&gt; 4380.44-&gt; 4381 filtered.
+
+# Integer to Hex and Binary
+
+================================
+
+Create a program to convert a decimal number to hexadecimal and binary number and print it.
+
+## Tests:
+
+*** Input
+
+10
+
+*** Output
+
+A
+
+1010
+
+*** Input
+
+420
+
+*** Output
+
+1A4
+
+110100100
+
+*** Input
+
+256
+
+*** Output
+
+100
+
+100000000
+
+# Convert Speed Units
+
+================================
+
+NB: You cannot solve this Problem with JAVA without using additional logic for the rounding.
+
+Create a program to ask the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and print the speed, in meters per second, kilometers per hour and miles per hour.
+
+Assume 1 mile = 1609 meters.
+
+Input
+
+On first line, you receive – distance in meters
+
+On second – hours
+
+On third – minutes
+
+On fourth – seconds
+
+Output
+
+Every number in the output should be precise up to 6 digits after the floating point
+
+On first line – speed in meters per second (m/s)
+
+On second line – speed in kilometers per hour (km/h)
+
+On third line – speed in miles per hour (mp/h)
+
+## Tests:
+
+*** Input
+
+1000
+
+1
+
+1
+
+0
+
+*** Output
+
+0.2732241
+
+0.9836066
+
+0.6113155
+
+*** Input
+
+10000
+
+0
+
+20
+
+30
+
+*** Output
+
+8.130081
+
+29.26829
+
+18.19036
+
+*** Input
+
+200000
+
+2
+
+5
+
+0
+
+*** Output
+
+26.66667
+
+96
+
+59.66439
+
+
+# Arrays and Lists
+
+# Max Sequence of Equal Elements
+================================
+
+Write a program that finds the longest sequence of equal elements in an array of integers. If several longest sequences exist, print the leftmost one.
+
+### Tests:
+
+*** Input
+2 1 1 2 3 3 2 2 2 1
+
+*** Output
+2 2 2
+
+*** Input
+1 1 1 2 3 1 3 3
+
+*** Output
+1 1 1
+
+*** Input
+4 4 4 4
+
+*** Output
+4 4 4 4
+
+*** Input
+0 1 1 5 2 2 6 3 3
+
+*** Output
+1 1
+
+
+# Max Sequence of Increasing Elements
+=====================================
+
+Write a program that finds the longest increasing subsequence in an array of integers. The longest increasing subsequence is a portion of the array (subsequence) that is strongly increasing and has the longest possible length. If several such subsequences exist, find the left most of them.
+
+### Tests:
+
+*** Input
+3 2 3 4 2 2 4
+
+*** Output
+2 3 4
+
+*** Input
+4 5 1 2 3 4 5
+
+*** Output
+1 2 3 4 5
+
+*** Input
+3 4 5 6
+
+*** Output
+3 4 5 6
+
+*** Input
+0 1 1 2 2 3 3
+
+*** Output
+0 1
+
+
+# Most Frequent Number
+=====================================
+
+Write a program that finds the most frequent number in a given sequence of numbers. 
+Numbers will be in the range [0…65535].
+In case of multiple numbers with the same maximum frequency, print the left-most of them.
+
+### Tests:
+
+*** Input
+4 1 1 4 2 3 4 4 1 2 4 9 3
+
+*** Output
+4
+The number 4 is the most frequent (occurs 5 times)
+
+*** Input
+2 2 2 2 1 2 2 2
+
+*** Output
+2
+The number 2 is the most frequent (occurs 7 times)
+
+*** Input
+7 7 7 0 2 2 2 0 10 10 10
+
+*** Output
+7
+The numbers 2, 7 and 10 have the same maximal frequence (each occurs 3 times). The leftmost of them is 7.
+13. 
+
+
+# Sorting of Array with the method "Selection sort"
+==================================================
+
+Сортиране на масив означава да подредим елементите му в нарастващ
+(намаляващ) ред. Напишете програма, която сортира масив. Да се
+използва алгоритъма "Selection sort".
+
+
 # CSharpAdvanced
 C# Advanced exercises
 
