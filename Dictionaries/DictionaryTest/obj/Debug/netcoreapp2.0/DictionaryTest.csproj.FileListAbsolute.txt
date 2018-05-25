@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\bin\Debug\netcoreapp2.0\DictionaryTest.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\bin\Debug\netcoreapp2.0\DictionaryTest.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\bin\Debug\netcoreapp2.0\DictionaryTest.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\bin\Debug\netcoreapp2.0\DictionaryTest.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\bin\Debug\netcoreapp2.0\DictionaryTest.pdb
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\obj\Debug\netcoreapp2.0\DictionaryTest.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\obj\Debug\netcoreapp2.0\DictionaryTest.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\obj\Debug\netcoreapp2.0\DictionaryTest.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\obj\Debug\netcoreapp2.0\DictionaryTest.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Dictionaries\DictionaryTest\obj\Debug\netcoreapp2.0\DictionaryTest.pdb
