@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\bin\Debug\netcoreapp2.0\ThirdTask.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\bin\Debug\netcoreapp2.0\ThirdTask.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\bin\Debug\netcoreapp2.0\ThirdTask.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\bin\Debug\netcoreapp2.0\ThirdTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\bin\Debug\netcoreapp2.0\ThirdTask.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\ThirdTask\obj\Debug\netcoreapp2.0\ThirdTask.pdb

@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\bin\Debug\netcoreapp2.0\FirstTask.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\bin\Debug\netcoreapp2.0\FirstTask.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\bin\Debug\netcoreapp2.0\FirstTask.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\bin\Debug\netcoreapp2.0\FirstTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\bin\Debug\netcoreapp2.0\FirstTask.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\obj\Debug\netcoreapp2.0\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\obj\Debug\netcoreapp2.0\FirstTask.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\obj\Debug\netcoreapp2.0\FirstTask.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\obj\Debug\netcoreapp2.0\FirstTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\FirstTask\obj\Debug\netcoreapp2.0\FirstTask.pdb

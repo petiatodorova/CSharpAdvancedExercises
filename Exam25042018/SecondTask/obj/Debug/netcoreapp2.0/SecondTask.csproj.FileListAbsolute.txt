@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\bin\Debug\netcoreapp2.0\SecondTask.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\bin\Debug\netcoreapp2.0\SecondTask.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\bin\Debug\netcoreapp2.0\SecondTask.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\bin\Debug\netcoreapp2.0\SecondTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\bin\Debug\netcoreapp2.0\SecondTask.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\obj\Debug\netcoreapp2.0\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\obj\Debug\netcoreapp2.0\SecondTask.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\obj\Debug\netcoreapp2.0\SecondTask.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\obj\Debug\netcoreapp2.0\SecondTask.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\Exam25042018\ExamSolutions\SecondTask\obj\Debug\netcoreapp2.0\SecondTask.pdb
