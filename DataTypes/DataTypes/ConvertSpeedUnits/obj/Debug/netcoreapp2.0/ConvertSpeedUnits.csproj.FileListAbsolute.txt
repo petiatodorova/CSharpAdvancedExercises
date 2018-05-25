@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.deps.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb

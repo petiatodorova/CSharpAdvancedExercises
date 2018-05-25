@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.deps.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\bin\Debug\netcoreapp2.0\DifferentIntegersSize.pdb
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.dll
+C:\Users\John\Desktop\GitRepo\CSharp\DataTypes\DataTypes\DifferentIntegersSize\obj\Debug\netcoreapp2.0\DifferentIntegersSize.pdb
