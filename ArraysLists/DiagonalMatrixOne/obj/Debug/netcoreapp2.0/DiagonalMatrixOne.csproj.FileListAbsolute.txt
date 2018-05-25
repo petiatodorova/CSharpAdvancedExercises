@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\bin\Debug\netcoreapp2.0\DiagonalMatrixOne.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\bin\Debug\netcoreapp2.0\DiagonalMatrixOne.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\bin\Debug\netcoreapp2.0\DiagonalMatrixOne.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\bin\Debug\netcoreapp2.0\DiagonalMatrixOne.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\bin\Debug\netcoreapp2.0\DiagonalMatrixOne.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\obj\Debug\netcoreapp2.0\DiagonalMatrixOne.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\obj\Debug\netcoreapp2.0\DiagonalMatrixOne.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\obj\Debug\netcoreapp2.0\DiagonalMatrixOne.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\obj\Debug\netcoreapp2.0\DiagonalMatrixOne.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\DiagonalMatrixOne\obj\Debug\netcoreapp2.0\DiagonalMatrixOne.pdb

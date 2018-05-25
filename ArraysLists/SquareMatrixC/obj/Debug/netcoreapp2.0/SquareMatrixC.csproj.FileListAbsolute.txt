@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\bin\Debug\netcoreapp2.0\SquareMatrixC.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\bin\Debug\netcoreapp2.0\SquareMatrixC.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\bin\Debug\netcoreapp2.0\SquareMatrixC.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\bin\Debug\netcoreapp2.0\SquareMatrixC.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\bin\Debug\netcoreapp2.0\SquareMatrixC.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\SquareMatrixC\obj\Debug\netcoreapp2.0\SquareMatrixC.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\bin\Debug\netcoreapp2.0\TheWall.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\bin\Debug\netcoreapp2.0\TheWall.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\bin\Debug\netcoreapp2.0\TheWall.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\bin\Debug\netcoreapp2.0\TheWall.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\bin\Debug\netcoreapp2.0\TheWall.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\TheWall\obj\Debug\netcoreapp2.0\TheWall.pdb

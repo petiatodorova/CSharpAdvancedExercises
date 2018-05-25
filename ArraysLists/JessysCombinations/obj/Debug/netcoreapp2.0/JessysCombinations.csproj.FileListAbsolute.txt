@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\bin\Debug\netcoreapp2.0\JessysCombinations.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\bin\Debug\netcoreapp2.0\JessysCombinations.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\bin\Debug\netcoreapp2.0\JessysCombinations.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\bin\Debug\netcoreapp2.0\JessysCombinations.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\bin\Debug\netcoreapp2.0\JessysCombinations.pdb
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.dll
+C:\Users\John\Desktop\GitRepo\CSharpGeneral\ArraysLists\JessysCombinations\obj\Debug\netcoreapp2.0\JessysCombinations.pdb
