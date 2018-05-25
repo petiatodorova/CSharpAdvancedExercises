@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\bin\Debug\netcoreapp2.0\CharacterMultiplier.pdb
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharacterMultiplier\obj\Debug\netcoreapp2.0\CharacterMultiplier.pdb

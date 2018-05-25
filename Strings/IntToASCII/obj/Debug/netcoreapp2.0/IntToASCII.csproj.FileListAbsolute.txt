@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\bin\Debug\netcoreapp2.0\IntToASCII.deps.json
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\bin\Debug\netcoreapp2.0\IntToASCII.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\bin\Debug\netcoreapp2.0\IntToASCII.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\bin\Debug\netcoreapp2.0\IntToASCII.dll
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\bin\Debug\netcoreapp2.0\IntToASCII.pdb
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\obj\Debug\netcoreapp2.0\IntToASCII.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\obj\Debug\netcoreapp2.0\IntToASCII.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\obj\Debug\netcoreapp2.0\IntToASCII.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\obj\Debug\netcoreapp2.0\IntToASCII.dll
+C:\Users\John\Desktop\GitRepo\CSharp\Strings\IntToASCII\obj\Debug\netcoreapp2.0\IntToASCII.pdb

@@ -1,0 +1,11 @@
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.AssemblyInfo.cs
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\bin\Debug\netcoreapp2.0\CharToAsciiToChar.deps.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\bin\Debug\netcoreapp2.0\CharToAsciiToChar.runtimeconfig.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\bin\Debug\netcoreapp2.0\CharToAsciiToChar.runtimeconfig.dev.json
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\bin\Debug\netcoreapp2.0\CharToAsciiToChar.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\bin\Debug\netcoreapp2.0\CharToAsciiToChar.pdb
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.dll
+C:\Users\John\Desktop\GitRepo\CSharpSummary\Strings\CharToAsciiToChar\obj\Debug\netcoreapp2.0\CharToAsciiToChar.pdb
