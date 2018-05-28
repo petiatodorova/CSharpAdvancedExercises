@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\StudentsClassWithList\\StudentsClassWithList.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\StudentsClassWithList\\StudentsClassWithList.csproj",
       "projectName": "StudentsClassWithList",
-      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\StudentsClassWithList\\StudentsClassWithList.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\StudentsClassWithList\\StudentsClassWithList.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\StudentsClassWithList\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\StudentsClassWithList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

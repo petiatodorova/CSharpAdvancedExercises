@@ -660,7 +660,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj",
+      "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -672,11 +672,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\Classes\\Classes.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\Classes\\Classes.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -697,8 +697,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj": {
-              "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj"
+            "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj": {
+              "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj"
             }
           }
         }
@@ -730,8 +730,8 @@
     {
       "code": "NU1104",
       "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj",
+      "message": "Unable to find project 'C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\ListOfClassWithDictionary\\ListOfClassWithDictionary.csproj",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.0"
       ]

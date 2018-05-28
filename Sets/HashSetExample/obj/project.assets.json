@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\HashSetExample\\HashSetExample.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\HashSetExample\\HashSetExample.csproj",
       "projectName": "HashSetExample",
-      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\HashSetExample\\HashSetExample.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\HashSetExample\\HashSetExample.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\HashSetExample\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\HashSetExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\DictionaryTest\\DictionaryTest.csproj",
+      "projectUniqueName": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\DictionaryTest\\DictionaryTest.csproj",
       "projectName": "DictionaryTest",
-      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\DictionaryTest\\DictionaryTest.csproj",
+      "projectPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\DictionaryTest\\DictionaryTest.csproj",
       "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvanced\\Sets\\DictionaryTest\\obj\\",
+      "outputPath": "C:\\Users\\John\\Desktop\\GitRepo\\CSharpAdvancedExercises\\Sets\\DictionaryTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
