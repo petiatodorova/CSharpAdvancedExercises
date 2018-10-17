@@ -18,7 +18,6 @@ namespace AbstractClasses
 
         }
 
-        public override string SayHello() => $"Miau";
-
+        public override string SayHello() => $"Cat say Miau";
     }
 }

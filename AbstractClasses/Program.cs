@@ -6,11 +6,13 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat(32, "Mimi", "white");
-            Console.WriteLine($"{cat.SayHello()}");  
-            Console.WriteLine($"{cat.Age}");  
-            Console.WriteLine($"{cat.Color}");  
-            Console.WriteLine($"{cat.Name}");  
+            Animal cat = new Cat();
+            Cat cat1 = new Cat();
+            Dog dog = new Dog();
+            Console.WriteLine($"Animal cat --> {cat.SayHello()}");  
+            Console.WriteLine($"Cat cat --> {cat1.SayHello()}");  
+            Console.WriteLine($"Cat cat --> {dog.SayHello()}");  
+
         }
     }
 }

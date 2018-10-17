@@ -23,6 +23,5 @@ namespace AbstractClasses
         public string Color { get; set; }
 
         public abstract string SayHello();
-
     }
 }
